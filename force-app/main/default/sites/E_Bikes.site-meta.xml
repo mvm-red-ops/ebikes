@@ -22,8 +22,8 @@
     <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>tayloryoung@brave-fox-p3vb6.com</siteAdmin>
+    <siteAdmin>tayloryoung@curious-shark-fj735x.com</siteAdmin>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>ebikes-20--developer-edition</subdomain>
+    <subdomain>ebikes-20-developer-edition</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
